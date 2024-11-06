@@ -1,0 +1,15 @@
+{
+  "name": "bun-strest-test-autocannon",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/autocannon": "^7.12.5",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "autocannon": "^8.0.0"
+  }
+}
